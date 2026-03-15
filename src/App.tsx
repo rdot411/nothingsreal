@@ -21,7 +21,7 @@ function App() {
             <DesktopIcon icon={<Amovie2 variant="32x32_4"/>} name="oǝpᴉʌ">
               <Video
                 w="420px"
-                src="public/3amrun.mp4"
+                src="/3amrun.mp4"
                 
               />
             </DesktopIcon>
