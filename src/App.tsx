@@ -2,7 +2,7 @@ import Login from "./components/Login";
 import WindowBar from "./components/WindowBar";
 import { useAuth } from "./store/auth";
 import DesktopIcon from "./components/DesktopIcon";
-import { Amovie2, Inetcpl1313, Joy102, Wordpad, Mail } from "@react95/icons";
+import { Amovie2, Inetcpl1313, Joy102, Wordpad } from "@react95/icons";
 import { Video } from "@react95/core";
 import Resume from "./components/Resume";
 import Game from "./components/Game";
