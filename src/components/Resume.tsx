@@ -5,7 +5,7 @@ function Resume() {
     <Tabs defaultActiveTab="x ᴉɥ🂮">
       <Tab title="x ᴉɥ🂮">
         <h3>ᴉɹɐʍᴉʇ ʌɐɥƃɐɹ</h3>
-        <Avatar src="public/me.png" alt="i thought it was cool" size="140px" />
+        <Avatar src="/me.png" alt="i thought it was cool" size="140px" />
 
         <p>⛔︎lʞɐ𒄒</p>
         <Fieldset legend="sᴉɥʇ i made this ʎɥʍ">
