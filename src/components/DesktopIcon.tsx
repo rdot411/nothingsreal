@@ -22,10 +22,10 @@ const styles = {
     width: "64px",
   },
   iconName: {
-    color: "#ffffff",
+    color: "#6E5191",
     fontSize: "14px",
     margin: "0",
-    textShadow: "1px 1px 3px rgba(0, 0, 0, 0.7)",
+    textShadow: "1px 1px 3px #6E5191",
     userSelect: "none",
   },
   window: {
