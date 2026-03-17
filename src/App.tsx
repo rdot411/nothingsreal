@@ -26,7 +26,7 @@ function App() {
                 
               />
             </DesktopIcon>
-            <DesktopIcon icon={<Inetcpl1313 variant="32x32_4"/>} name="ɹǝsʍoɹq">
+            <DesktopIcon icon={<Inetcpl1313 variant="32x32_4"/>} name="ǝlʎʇsǝɟᴉl">
              <iframe width={800} height={500} src="https://en.wikipedia.org/wiki/Online_piracy"/>
             </DesktopIcon>
             <DesktopIcon width={650} icon={<Wordpad variant="32x32_4"/>} name="ǝɯ ʇnoqɐ">
