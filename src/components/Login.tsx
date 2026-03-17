@@ -31,11 +31,11 @@ function Login() {
             <div className="flex-col flex gap-4">
               <div className="flex items-center gap-2">
                 <p style={{margin:0}}>ǝɯɐuɹǝsn:</p>
-                <Input defaultValue={"⃠🀙"} disabled />
+                <Input defaultValue={""} enabled />
               </div>
               <div className="flex items-center gap-2">
                 <p style={{margin:0}}>pɹoʍssɐd:</p>
-                <Input defaultValue={"lmaoyouthought"} type="password" disabled />
+                <Input defaultValue={""} type="password" enabled />
               </div>
             </div>
           </div>

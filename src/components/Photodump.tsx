@@ -9,18 +9,16 @@ function Resume() {
           <div><Avatar src="/car1.jpg" alt="1" width={640} height={640} /></div>
           <div><Avatar src="/car3.jpg" alt="3" width={640} height={640} /></div>
           <div><Avatar src="/car4.jpg" alt="4" width={640} height={640} /></div>
+          <div><Avatar src="/car5.jpg" alt="5" width={640} height={640} /></div>
         </div>
         <div style={{display:"flex", flexDirection:"row"}}>
-          <div><Avatar src="/car5.jpg" alt="5" width={640} height={640} /></div>
           <div><Avatar src="/car6.jpg" alt="6" width={640} height={640} /></div>
           <div><Avatar src="/car7.jpg" alt="7" width={640} height={640} /></div>
-        </div>
-        <div style={{display:"flex", flexDirection:"row"}}>
-          <div><Avatar src="/car8.jpg" alt="8" width={640} height={640} /></div>
+           <div><Avatar src="/car8.jpg" alt="8" width={640} height={640} /></div>
           <div><Avatar src="/car9.jpg" alt="9" width={640} height={640} /></div>
-          <div><Avatar src="/car10.jpg" alt="10" width={640} height={640} /></div>
         </div>
         <div style={{display:"flex", flexDirection:"row"}}>
+          <div><Avatar src="/car10.jpg" alt="10" width={640} height={640} /></div>
           <div><Avatar src="/car11.jpg" alt="11" width={640} height={640} /></div>
           <div><Avatar src="/car12.jpg" alt="12" width={640} height={640} /></div>
         </div>
