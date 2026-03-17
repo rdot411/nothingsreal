@@ -10,7 +10,7 @@ function Resume() {
         <p>⛔︎lʞɐ𒄒</p>
         <Fieldset legend="sᴉɥʇ i made this ʎɥʍ">
           <p>
-            I thought it would be cool, fuck pɐsɐɹd sɹɯ. Yes there will be come content coming uoos. || ₳lways $trive ₳nd ₱rosper || wdtyx || 
+            I thought it would be cool, fuck pɐsɐɹd s,ɹɯ. Yes there will be more content coming uoos. || ₳lways $trive ₳nd ₱rosper || wdtyx || 
           </p>
         </Fieldset>
       </Tab>

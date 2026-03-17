@@ -6,13 +6,15 @@ import {
   Joy102,
   Inetcpl1313,
   Wordpad,
-  Mail
+  Mail,
+  Wangimg130,
+  Inetcpl1301
 } from "@react95/icons";
 import { FaGithub, FaInstagramSquare } from "react-icons/fa";
 import { useEffect, useState } from "react";
 import Shutdown from "./Shutdown";
 import { useWindowsStore } from "../store/windows";
-import { FaSpotify } from "react-icons/fa6";
+import { FaSpotify, FaLaptop } from "react-icons/fa6";
 
 function Clock() {
   const [time, setTime] = useState(new Date());
@@ -49,7 +51,10 @@ function WindowBar() {
                   <a href="https://open.spotify.com/user/minecreeper4life" target="_blank" style={{ textDecoration: 'none', color: '#b81fcc', fontFamily: 'MS Sans Serif' }}>ʎɟᴉʇod$</a>
                 </List.Item>
                 <List.Item icon={<Mail variant="16x16_4" />}>
-                  <a href="raghavtiw11L@gmail.com" style={{ textDecoration: 'none', color: '#bc2056', fontFamily: 'MS Sans Serif' }}>(ǝʞᴉ$) ʞoolʇno</a>
+                  <a href="raghavtiw11@gmail.com" style={{ textDecoration: 'none', color: '#bc2056', fontFamily: 'MS Sans Serif' }}>(ǝʞᴉ$) ʞoolʇno</a>
+                </List.Item>
+                <List.Item icon={<FaLaptop size={16} />}>
+                  <a href="https://raghavt.netlify.app/" style={{ textDecoration: 'none', color: '#930e69', fontFamily: 'MS Sans Serif' }}>(ƃo) oᴉloɟʇɹod</a>
                 </List.Item>
               </List>
               ͕̲̭̯̘̂̌͋̀̎ʇ̫̳̱̥͋̈̿͂̇͘͟ɔ̸̬̠̞̺̘̭̖̹́̾̉́̅͢ͅɐ̦͕̼̞̙̐̾̾̏͘͡ʇ̴̡̬̠̠̺̱͌̑̽̔͆̈́ú̷̗̳̤̩͎͉̣̔̃͋̋͛̈́͢͝ò̶̢̳̼̬̖͚͆͗̌̓͊͆͐̚͜ɔ
@@ -80,6 +85,19 @@ function WindowBar() {
               icon={<Wordpad variant="32x32_4" />}
             >
               ǝɯ ʇnoqɐ
+            </List.Item>
+            <List.Item
+              onClick={() => openWindow("Photodump")}
+              icon={<Wangimg130 variant="32x32_4" />}
+            >
+              dɯnp oʇoɥd
+            </List.Item>
+            <List.Divider />
+            <List.Item
+              onClick={() => openWindow("The trap")}
+              icon={<Inetcpl1301 variant="32x32_4" />}
+            >
+              dɐɹʇ ǝɥʇ
             </List.Item>
             <List.Divider />
             <List.Item

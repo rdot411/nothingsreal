@@ -2,11 +2,12 @@ import Login from "./components/Login";
 import WindowBar from "./components/WindowBar";
 import { useAuth } from "./store/auth";
 import DesktopIcon from "./components/DesktopIcon";
-import { Amovie2, Inetcpl1313, Joy102, Wordpad } from "@react95/icons";
+import { Amovie2, Inetcpl1301, Inetcpl1313, Joy102, Wangimg130, Wordpad } from "@react95/icons";
 import { Video } from "@react95/core";
 import Resume from "./components/Resume";
 import Game from "./components/Game";
 import { AGENTS, ClippyProvider } from "@react95/clippy";
+import Photodump from "./components/Photodump";
 
 function App() {
   const authinicated = useAuth((state) => state.authinicated);
@@ -33,6 +34,12 @@ function App() {
             </DesktopIcon>
             <DesktopIcon width={400} height={400} icon={<Joy102 variant="32x32_4"/>} name="ǝɯɐƃ">
              <Game/>
+            </DesktopIcon>
+            <DesktopIcon width={650} icon={<Wangimg130 variant="32x32_4"/>} name="dɯnp oʇoɥd">
+             <Photodump/>
+            </DesktopIcon>
+            <DesktopIcon icon={<Inetcpl1301 variant="32x32_4"/>} name="dɐɹʇ ǝɥʇ">
+             <iframe width={800} height={500} src="https://en.wikipedia.org/wiki/Birds_in_the_Trap_Sing_McKnight"/>
             </DesktopIcon>
           </div>
           <WindowBar />
