@@ -72,7 +72,7 @@ function WindowBar() {
               onClick={() => openWindow("Browser")}
               icon={<Inetcpl1313 variant="32x32_4" />}
             >
-              ɹǝsʍoɹq
+              ǝlʎʇsǝɟᴉl
             </List.Item>
             <List.Item
               onClick={() => openWindow("Video")}
