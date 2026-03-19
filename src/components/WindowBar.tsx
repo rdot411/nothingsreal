@@ -75,12 +75,6 @@ function WindowBar() {
               ǝlʎʇsǝɟᴉl
             </List.Item>
             <List.Item
-              onClick={() => openWindow("Video")}
-              icon={<Amovie2 variant="32x32_4" />}
-            >
-              oǝpᴉʌ
-            </List.Item>
-            <List.Item
               onClick={() => openWindow("Resume")}
               icon={<Wordpad variant="32x32_4" />}
             >
