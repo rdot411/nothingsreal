@@ -2,7 +2,7 @@ import Login from "./components/Login";
 import WindowBar from "./components/WindowBar";
 import { useAuth } from "./store/auth";
 import DesktopIcon from "./components/DesktopIcon";
-import { Amovie2, Inetcpl1301, Inetcpl1313, Joy102, Wangimg130, Wordpad } from "@react95/icons";
+import { Amovie2, Inetcpl1301, Inetcpl1313, Joy102, Mplayer110, Wangimg130, Wordpad } from "@react95/icons";
 import { Video } from "@react95/core";
 import Resume from "./components/Resume";
 import Game from "./components/Game";
@@ -19,7 +19,7 @@ function App() {
       {authinicated && (
         <ClippyProvider agentName={AGENTS.CLIPPY}>
           <div className="fixed">
-            <DesktopIcon icon={<Amovie2 variant="32x32_4"/>} name="oǝpᴉʌ">
+            <DesktopIcon icon={<Amovie2 variant="32x32_4"/>} name="unɹ ɯɐƐ">
               <Video
                 w="420px"
                 src="/3amrun.mp4"
@@ -32,6 +32,13 @@ function App() {
             <DesktopIcon width={650} icon={<Wordpad variant="32x32_4"/>} name="ǝɯ ʇnoqɐ">
              <Resume/>
             </DesktopIcon>
+            <DesktopIcon icon={<Mplayer110 variant="32x32_4"/>} name="ǝuo uᴉ ǝloɥ">
+              <Video
+                w="420px"
+                src="/pool.mp4"
+                
+              />
+              </DesktopIcon>
             <DesktopIcon width={400} height={400} icon={<Joy102 variant="32x32_4"/>} name="ǝɯɐƃ">
              <Game/>
             </DesktopIcon>
