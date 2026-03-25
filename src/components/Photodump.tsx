@@ -29,6 +29,7 @@ function Resume() {
           <div><Avatar src="/fit1.png" alt="1" width={640} height={640} /></div>
           <div><Avatar src="/fit2.png" alt="2" width={640} height={640} /></div>
           <div><Avatar src="/fit3.png" alt="3" width={640} height={640} /></div>
+           <div><Avatar src="/fit5.png" alt="4" width={640} height={640} /></div>
           <div><Avatar src="/fit4.png" alt="4" width={640} height={640} /></div>
         </div>
       </Tab>
