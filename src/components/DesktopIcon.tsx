@@ -22,10 +22,10 @@ const styles = {
     width: "64px",
   },
   iconName: {
-    color: "#6E5191",
+    color: "#ff2400",
     fontSize: "14px",
     margin: "0",
-    textShadow: "1px 1px 3px #6E5191",
+    textShadow: "1px 1px 3px #ff4200",
     userSelect: "none",
   },
   window: {
@@ -37,7 +37,7 @@ const styles = {
   },
   titleBar: {
     alignItems: "center",
-    background: "#f0f0f0",
+    background: "#ffffff",
     borderTopLeftRadius: "8px",
     borderTopRightRadius: "8px",
     cursor: "move",

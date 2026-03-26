@@ -12,8 +12,8 @@ import Photodump from "./components/Photodump";
 function App() {
   const authinicated = useAuth((state) => state.authinicated);
   return (
-    <div style={{ width: "100%", background: "#f58b57", minHeight: "100vh",position:"relative" }}>
-      <img src="/image.png" width={400} style={{position:"absolute",top:"50%",left:"50%",transform:"translate(-50%,-70%)"}}/>
+    <div style={{ width: "100%", background: "#000000", minHeight: "100vh",position:"relative" }}>
+      <img src="/2.jpg" width={400} style={{position:"absolute",top:"50%",left:"50%",transform:"translate(-50%,-70%)"}}/>
       {!authinicated && <Login />}
 
       {authinicated && (
