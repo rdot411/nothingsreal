@@ -39,6 +39,7 @@ function Resume() {
           <div><Avatar src="/gym/gym1.jpg" alt="1" width={640} height={640} /></div>
           <div><Avatar src="/gym/gym2.jpg" alt="2" width={640} height={640} /></div>
           <div><Avatar src="/gym/gym3.jpg" alt="3" width={640} height={640} /></div>
+          <div><Avatar src="/gym/gym5.jpg" alt="4" width={640} height={640} /></div>
           <div><Avatar src="/gym/gym4.jpg" alt="4" width={640} height={640} /></div>
         </div>
       </Tab>
