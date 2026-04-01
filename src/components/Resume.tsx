@@ -14,6 +14,19 @@ function Resume() {
           </p>
         </Fieldset>
       </Tab>
+      <Tab title="🂦ǝlʎʇ$ǝɟᴉl9ᄅ☹︎">
+        <Fieldset legend="dɐɹʇ ǝɥʇ ǝdɐɔsǝ">
+          <p>
+            The trap isn't public housing or being poor. The real trap is accepting things as they are and losing curiosity about the world. Fuck being comfortable, nothing is real and nothing really matters. Everyone dies in the long term anyway. I want to chase faliure and progress, thats what really gets me going. I'm afraid of being comfortable and thinking everything is good, it's dangerous to be conmfortable.
+          </p>
+          <p>
+            I want to chase faliure and progress, thats what really gets me going. I'm afraid of being comfortable and thinking everything is good, it's dangerous to be conmfortable. This project is a collection of my thoughts, and if someone reads this, it's probably too late. I want to go into the deep and and work hard.
+          </p>
+          <p>
+            It's not like anything's really real, we are all doing things for the sake of progress and improvment. || ˙puɐʇsɹǝpun ʇuop ǝʍ sƃuᴉɥʇ ɹɐǝɟ ʎluo ǝM ||
+          </p>
+        </Fieldset>
+      </Tab>
       <Tab title="dont ʞool here">
         <Fieldset legend="t̴͖̲̖͉͎͙̞̪̩́̾͋͒̃̽͠͞͡ư͎̙͚̫͆̇̈́́̐̓͢͝r̵̪͍̞̣̺̼̖͋̈́͛̍͆͜n̶̢̨̛͉͈̺̳͒̓̍̿͐̏̽̃͜ a̴̼͙̯̩͍̤̣̝̖͇̓̌̾̈́̎̃̔̌̚ẅ̷̧̻̤̬͉́̌̅̆̊̀̃̆ą̲̺̼͖̓̒̒̉̾́͘̚͠y̠̻̼͉̤͆͛̎̓̊͒̓̃ n̡̬̻̳͙̝̦̒͛̅̔̿̏̚͟͝ô̱̪̬̖̦͊̀̋́̾̔͡ẃ͕͓͇͎̖̟̿͒̔̏͊̓̋͢͡͝">
           <p>
