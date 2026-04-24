@@ -2,7 +2,7 @@ import { Avatar, Tab, Tabs } from '@react95/core';
 
 function Resume() {
   return (
-    <Tabs defaultActiveTab="⛻ƃuᴉʇʇod$-ɹɐɔ☢〄">
+    <Tabs color={"#ff4200"} defaultActiveTab="⛻ƃuᴉʇʇod$-ɹɐɔ☢〄">
       <Tab title="⛻ƃuᴉʇʇod$-ɹɐɔ☢〄">
         <h3>𒀽ƃuᴉʇʇod$-🃁ɹɐɔ⛲︎</h3>
         <div style={{display:"flex", flexDirection:"row"}}>

@@ -39,7 +39,7 @@ function App() {
                 
               />
               </DesktopIcon>
-            <DesktopIcon width={400} height={400} icon={<Joy102 variant="32x32_4"/>} name="ǝɯɐƃ">
+            <DesktopIcon width={400} height={400} icon={<Joy102 variant="32x32_4"/>} name="ssǝɥɔ">
              <Game/>
             </DesktopIcon>
             <DesktopIcon width={650} icon={<Wangimg130 variant="32x32_4"/>} name="dɯnp oʇoɥd">

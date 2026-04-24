@@ -6,7 +6,7 @@ import { useAuth } from "../store/auth";
 function Login() {
     const login=useAuth((state)=>state.login);
   return (
-    <SafeModal
+    <SafeModal color={"#ff4200"}
       dragOptions={{
         disabled: true,
       }}
@@ -40,8 +40,8 @@ function Login() {
             </div>
           </div>
           <div className="flex-col gap-2 flex">
-            <Button style={{width:"100%"}} onClick={()=>login()}>ʞ͎o</Button>
-            <Button style={{width:"100%"}}>̤̰̮̮̜͖̹̥͓̎́͐́̓̕ͅļ̬̞͉̬̺́̍̀͌͘ǝ̧̺̘̦͕̉̍̅̔̔́̃͢͜͜͞ͅɔ̶̦̲͎͖͙͗̒̋͐͛͝ư̡̡͓̤̫͔̟͓̈́̉̌̒̿̈́̕̚͘ɐ̧̫͖̩̝̤͈͓̮̲̈͆͐̓̄͊͘ɔ</Button>
+            <Button color={"#ff4200"} style={{width:"100%"}} onClick={()=>login()}>ʞ͎o</Button>
+            <Button color={"#3700ff"} style={{width:"100%"}}>̤̰̮̮̜͖̹̥͓̎́͐́̓̕ͅļ̬̞͉̬̺́̍̀͌͘ǝ̧̺̘̦͕̉̍̅̔̔́̃͢͜͜͞ͅɔ̶̦̲͎͖͙͗̒̋͐͛͝ư̡̡͓̤̫͔̟͓̈́̉̌̒̿̈́̕̚͘ɐ̧̫͖̩̝̤͈͓̮̲̈͆͐̓̄͊͘ɔ</Button>
           </div>
         </div>
       </Modal.Content>
