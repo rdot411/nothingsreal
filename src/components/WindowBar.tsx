@@ -44,7 +44,7 @@ function WindowBar() {
                   <a href="https://github.com/rdot411" target="_blank" style={{ textDecoration: 'none', color: '#1a5a9e', fontFamily: 'MS Sans Serif' }}>qnɥʇᴉƃ</a>
                 </List.Item>
                 <List.Item icon={<FaInstagramSquare size={16} />}>
-                  <a href="https://instagram.com/rghvtwri" target="_blank" style={{ textDecoration: 'none', color: '#4e1bd1', fontFamily: 'MS Sans Serif' }}>ɯɐɹƃɐʇ$uᴉ</a>
+                  <a href="https://instagram.com/raghxvt" target="_blank" style={{ textDecoration: 'none', color: '#4e1bd1', fontFamily: 'MS Sans Serif' }}>ɯɐɹƃɐʇ$uᴉ</a>
                 </List.Item>
                 <List.Item icon={<FaSpotify size={16} />}>
                   <a href="https://open.spotify.com/user/minecreeper4life" target="_blank" style={{ textDecoration: 'none', color: '#b81fcc', fontFamily: 'MS Sans Serif' }}>ʎɟᴉʇod$</a>
