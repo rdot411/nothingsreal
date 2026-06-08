@@ -8,7 +8,7 @@ function Login() {
   return (
     <SafeModal color={"#ff4200"}
       dragOptions={{
-        disabled: true,
+        disabled: false,
       }}
       title="w̫͙̱̯̼͋͊͆͛͋è̸̩̤̱͍̠̫̺͚͙̎̃̏͛͆̃̃͛l̶̢͓̭̗̗̬̔̅͛́̋͋̌͠͞ć̶̪̙̬̥̪̙͍͇̣̍͒̿̌̾õ̺͇͈̻̻͍̘͖̔̽͐̉̑̈͐̕m̨͕͙͚͓͚͗́͂̈́̀̄̉͌͜e̱̮̪͈͉͕̬̤̋̈́́͌̒͗͗̈́̕ t̪̦̝̳̬̗͋̐̇͆̋̍̕ŏ̸͙̘̬̫̗̀̈́̋͂̋̑͌͗͟͜͝ 🂋[pǝʇɔɐpǝɹ]🂽"
       style={{position: "absolute", top: "50%", left: "50%", transform: "translate(-50%, -90%)"}}
@@ -22,6 +22,7 @@ function Login() {
         />]
         
       }
+
     >
       <Modal.Content width="450px" height="160px" boxShadow="$in">
         <div className="flex items-start justify-between gap-2">

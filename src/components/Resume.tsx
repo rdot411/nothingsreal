@@ -27,13 +27,6 @@ function Resume() {
           </p>
         </Fieldset>
       </Tab>
-      <Tab title="dont ʞool here">
-        <Fieldset color={"#910199"} legend="t̴͖̲̖͉͎͙̞̪̩́̾͋͒̃̽͠͞͡ư͎̙͚̫͆̇̈́́̐̓͢͝r̵̪͍̞̣̺̼̖͋̈́͛̍͆͜n̶̢̨̛͉͈̺̳͒̓̍̿͐̏̽̃͜ a̴̼͙̯̩͍̤̣̝̖͇̓̌̾̈́̎̃̔̌̚ẅ̷̧̻̤̬͉́̌̅̆̊̀̃̆ą̲̺̼͖̓̒̒̉̾́͘̚͠y̠̻̼͉̤͆͛̎̓̊͒̓̃ n̡̬̻̳͙̝̦̒͛̅̔̿̏̚͟͝ô̱̪̬̖̦͊̀̋́̾̔͡ẃ͕͓͇͎̖̟̿͒̔̏͊̓̋͢͡͝">
-          <p>
-            ill put something here sooner or later x || now scram. Maybe you should follow my ig ;) or bookmark this website 
-          </p>
-        </Fieldset>
-      </Tab>
     </Tabs>
   );
 }
