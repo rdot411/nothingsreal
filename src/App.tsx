@@ -2,13 +2,14 @@ import Login from "./components/Login";
 import WindowBar from "./components/WindowBar";
 import { useAuth } from "./store/auth";
 import DesktopIcon from "./components/DesktopIcon";
-import { Amovie2, FileFont, Inetcpl1301, Inetcpl1313, Joy102, Mplayer11, Mplayer110, Wangimg130, Wordpad } from "@react95/icons";
+import { Amovie2, FileFont, Imgadmin214, Inetcpl1301, Inetcpl1313, Joy102, Mplayer11, Mplayer110, Wangimg130, Wordpad } from "@react95/icons";
 import { Video } from "@react95/core";
 import Resume from "./components/Resume";
 import Game from "./components/Game";
 import { AGENTS, ClippyProvider } from "@react95/clippy";
 import Photodump from "./components/Photodump";
 import FuturePlans from "./components/FuturePlans";
+import Stuff from "./components/Stuff";
 
 function App() {
   const authinicated = useAuth((state) => state.authinicated);
@@ -28,6 +29,9 @@ function App() {
             </DesktopIcon>
             <DesktopIcon width={650} icon={<Wangimg130 variant="32x32_4"/>} name="dɯnp oʇoɥd">
              <Photodump/>
+            </DesktopIcon>
+            <DesktopIcon width={600} icon={<Imgadmin214 variant="32x32_4"/>} name="ɟɟnʇs">
+             <Stuff/>
             </DesktopIcon>
             <DesktopIcon icon={<Inetcpl1313 variant="32x32_4"/>} name="ǝlʎʇsǝɟᴉl">
              <iframe width={800} height={500} src="https://en.wikipedia.org/wiki/Online_piracy"/>
