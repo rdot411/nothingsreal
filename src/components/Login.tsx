@@ -46,6 +46,7 @@ function Login() {
           </div>
         </div>
       </Modal.Content>
+      <p>n⦿ʎ ɹ⚉ɟ p⚭ƃ ʇ,u⑊ɐ ʇ⍭ ˙ʇǝuɹǝʇu↓ ǝɥʇ ɟɟ☢︎ ʎɐʇ$ 'ǝɔ⎮ʌpɐ ɟ☹︎ pɹ⛔︎ʍ ******-</p>
     </SafeModal>
   );
 }
