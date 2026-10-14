@@ -21,11 +21,13 @@ function Resume() {
           <div><Avatar src="/cars/car10.jpg" alt="10" width={640} height={640} /></div>
           <div><Avatar src="/cars/car11.jpg" alt="11" width={640} height={640} /></div>
           <div><Avatar src="/cars/car12.jpg" alt="12" width={640} height={640} /></div>
+          <div><Avatar src="/cars/car16.jpg" alt="12" width={640} height={640} /></div>
         </div>
         <div style={{display:"flex", flexDirection:"row"}}>
           <div><Avatar src="/cars/car13.jpg" alt="10" width={640} height={640} /></div>
           <div><Avatar src="/cars/car14.jpg" alt="11" width={640} height={640} /></div>
           <div><Avatar src="/cars/car15.jpg" alt="12" width={640} height={640} /></div>
+          <div><Avatar src="/cars/car17.jpg" alt="12" width={640} height={640} /></div>
         </div>
       </Tab>
       <Tab title="⊑¿$ʇᴉɟʇnoЖ">
