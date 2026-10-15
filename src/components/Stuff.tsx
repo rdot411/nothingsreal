@@ -8,11 +8,14 @@ function Resume() {
           <div><Avatar src="/posts/aus/aus1.jpg" alt="1" width={200} height={50} /></div>
           <div><Avatar src="/posts/aus/aus2.jpg" alt="2"  width={200} height={50}/></div>
           <div><Avatar src="/posts/aus/aus5.jpg" alt="3" width={200} height={50}/></div>
+           <div><Avatar src="/posts/aus/aus9.jpg" alt="5"  width={200} height={50}/></div>
         </div>
         <div><Avatar src="/posts/aus/aus4.jpg" alt="4" width={600} height={100}/></div>
          <div style={{display:"flex", flexDirection:"row",}}>
         <div><Avatar src="/posts/aus/aus3.jpg" alt="5" width={50} height={50}/></div>
         <div><Avatar src="/posts/aus/aus7.jpg" alt="5"  width={50} height={50}/></div>
+         <div><Avatar src="/posts/aus/aus6.jpg" alt="5"  width={50} height={50}/></div>
+          <div><Avatar src="/posts/aus/aus8.jpg" alt="5"  width={50} height={50}/></div>
         </div>
         <p></p>
         <Fieldset >
