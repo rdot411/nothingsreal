@@ -10,12 +10,14 @@ function Resume() {
           <div><Avatar src="/cars/car3.jpg" alt="3" width={640} height={640} /></div>
           <div><Avatar src="/cars/car4.jpg" alt="4" width={640} height={640} /></div>
           <div><Avatar src="/cars/car5.jpg" alt="5" width={640} height={640} /></div>
+          <div><Avatar src="/cars/car18.jpg" alt="5" width={640} height={640} /></div>
         </div>
         <div style={{display:"flex", flexDirection:"row"}}>
           <div><Avatar src="/cars/car6.jpg" alt="6" width={640} height={640} /></div>
           <div><Avatar src="/cars/car7.jpg" alt="7" width={640} height={640} /></div>
            <div><Avatar src="/cars/car8.jpg" alt="8" width={640} height={640} /></div>
           <div><Avatar src="/cars/car9.jpg" alt="9" width={640} height={640} /></div>
+          <div><Avatar src="/cars/car19.jpg" alt="5" width={640} height={640} /></div>
         </div>
         <div style={{display:"flex", flexDirection:"row"}}>
           <div><Avatar src="/cars/car10.jpg" alt="10" width={640} height={640} /></div>
@@ -39,6 +41,7 @@ function Resume() {
            <div><Avatar src="/fits/fit5.png" alt="4" width={640} height={640} /></div>
           <div><Avatar src="/fits/fit4.png" alt="4" width={640} height={640} /></div>
           <div><Avatar src="/fits/fit6.png" alt="6" width={640} height={640} /></div>
+          <div><Avatar src="/fits/fit7.png" alt="7" width={640} height={640} /></div>
         </div>
       </Tab>
     </Tabs>
